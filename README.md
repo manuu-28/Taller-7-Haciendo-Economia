@@ -18,6 +18,6 @@ Para esto, se construyen tres índices financieros transparentes basados en univ
 ## Estructura del repositorio
 RawData/ -> Datos 
 
-Excel/ ->
+Excel/ -> Excel resuelto
 
 Resultados/ -> Tablas y gráficos generados 
