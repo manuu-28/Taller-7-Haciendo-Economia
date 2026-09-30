@@ -6,7 +6,7 @@
 |-------------------|---------------------------------------------------|
 | David Suárez      | Líder del proyecto y enlace con el fondo          |
 | Manuela Vergara   | Especialista en datos y reproducibilidad          |
-| Joan Cortés       | Analista cuantitativo                             |
+| Santiago Cortés   | Analista cuantitativo                             |
 | Ariana Garzón     | Especialista en visualización y comunicación      |
 
 ## Descripción del proyecto
